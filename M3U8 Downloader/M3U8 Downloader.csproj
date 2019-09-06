@@ -154,9 +154,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="download_128px_1159863_easyicon.net.ico" />
     <Content Include="download_128px_1200629_easyicon.net.ico" />
-    <Content Include="图标.ico" />
   </ItemGroup>
   <ItemGroup>
     <WCFMetadata Include="Service References\" />

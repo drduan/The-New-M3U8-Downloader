@@ -369,9 +369,9 @@ namespace M3U8_Downloader
             this.label_Title.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.label_Title.Location = new System.Drawing.Point(14, 7);
             this.label_Title.Name = "label_Title";
-            this.label_Title.Size = new System.Drawing.Size(311, 22);
+            this.label_Title.Size = new System.Drawing.Size(205, 22);
             this.label_Title.TabIndex = 23;
-            this.label_Title.Text = "M3U8 Downloader - 1.0  by：nilaoda";
+            this.label_Title.Text = "M3U8 Downloader - 1.1";
             this.label_Title.MouseDown += new System.Windows.Forms.MouseEventHandler(this.label8_MouseDown);
             // 
             // button_Min
